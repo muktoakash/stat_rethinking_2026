@@ -1,6 +1,8 @@
 Statistical Rethinking (2026 Edition)
 ===============
 
+Registration: <[Google Form]([https://xcelab.net/rm/statistical-rethinking/](https://docs.google.com/forms/d/e/1FAIpQLScHtJwPDgbewUXiHVshDvxJ_k_dDHZi5nUoNn2Si9m6SO3WDQ/viewform?usp=sharing&ouid=105688155773317046992))>
+
 Instructor: Richard McElreath
 
 Location: MPI-EVA 2nd floor lecture hall (the big one)
